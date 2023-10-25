@@ -1,11 +1,11 @@
 <Configuration>
   <MappedFolders>
     <MappedFolder>
-      <HostFolder>D:\dojo\ep20</HostFolder>
-      <SandboxFolder>C:\dojo</SandboxFolder>
+      <HostFolder>C:\dev\dojo\BeltTest</HostFolder>
+      <SandboxFolder>C:\dev</SandboxFolder>
     </MappedFolder>
   </MappedFolders>
   <LogonCommand>
-    <Command>C:\dojo\dojostart.cmd</Command>
+    <Command>C:\dev\dojostart.cmd</Command>
   </LogonCommand>
 </Configuration>
